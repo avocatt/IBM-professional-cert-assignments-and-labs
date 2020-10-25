@@ -1,7 +1,7 @@
 # IBM Professional Data Science Certificate Assignments and Labs
 
 ### Assignments 
-[Assignment.ipynb)Analyzing US Economic Data and Building a Dashboard](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/Final-Assignment.ipynb) 
+[Analyzing US Economic Data and Building a Dashboard](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/Final-Assignment.ipynb) 
 
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some essential economic indicators from some data, you will then display these economic indicators in a Dashboard. You can then share the dashboard via an URL.
 
