@@ -9,7 +9,9 @@ Gross domestic product (GDP) is a measure of the market value of all the final g
 
 [Connect to Db2 database on Cloud using Python](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/connect-to-db-oncloud-using-python.ipynb) 
 
-### Objectives
+### Labs
+
+#### Objectives
 * Import the ibm_db Python library
 * Enter the database connection credentials
 * Create the database connection
