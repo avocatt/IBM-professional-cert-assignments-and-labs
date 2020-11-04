@@ -11,6 +11,18 @@ Gross domestic product (GDP) is a measure of the market value of all the final g
 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
+[Data Analysis with Python](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/data_analysis_with_python_assignment.ipynb) 
+A survey was conducted to gauge an audience interest in different data science topics, namely:
+
+1. Big Data (Spark / Hadoop) 
+2. Data Analysis / Statistics 
+3. Data Journalism Data Visualization 
+4. Data Visualization 
+5. Deep Learning 
+6. Machine Learning 
+
+The participants had three options for each topic: Very Interested, Somewhat interested, and Not interested. 2,233 respondents completed the survey.
+
 ### Labs
 [Connect to Db2 database on Cloud using Python](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/connect-to-db-oncloud-using-python.ipynb) 
 #### Objectives
