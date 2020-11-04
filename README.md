@@ -9,20 +9,13 @@ Gross domestic product (GDP) is a measure of the market value of all the final g
 
 #### [Data Analysis with Python](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/data_analysis_with_python_assignment.ipynb) 
 
+In this assignment, you will analyse and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on. A template notebook is provided in the lab; your job is to complete the ten questions. Some hints to the questions are given in the template notebook. You will use Watson Studio to perform the analysis, and share  an image of your finished Jupyter notebook with a URL. 
+
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 #### [Data Visualization with Python](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/Data_vis_assignment.ipynb) 
 
-A survey was conducted to gauge an audience interest in different data science topics, namely:
-
-1. Big Data (Spark / Hadoop) 
-2. Data Analysis / Statistics 
-3. Data Journalism Data Visualization 
-4. Data Visualization 
-5. Deep Learning 
-6. Machine Learning 
-
-The participants had three options for each topic: Very Interested, Somewhat interested, and Not interested. 2,233 respondents completed the survey.
+In this Assignment, you will demonstrate the data visualization skills you learned by completing this course. You will be required to generate two visualization plots. The first one will be a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot is a Choropleth map of the crime rate in San Francisco.
 
 ### Labs
 #### [Connect to Db2 database on Cloud using Python](https://github.com/avocatt/IBM-professional-cert-assignments-and-labs/blob/main/connect-to-db-oncloud-using-python.ipynb) 
